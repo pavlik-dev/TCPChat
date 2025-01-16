@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServer", "TCPServer\TCPServer.csproj", "{B00DFFFA-682D-4B0F-B06C-BBB448B82151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedObjects", "SharedObjects\SharedObjects.csproj", "{BAB15868-B33E-467F-B7A4-2F745E8CC022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{1238D2A1-BBD5-4929-ACB6-D574D9105475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00DFFFA-682D-4B0F-B06C-BBB448B82151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00DFFFA-682D-4B0F-B06C-BBB448B82151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00DFFFA-682D-4B0F-B06C-BBB448B82151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00DFFFA-682D-4B0F-B06C-BBB448B82151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB15868-B33E-467F-B7A4-2F745E8CC022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB15868-B33E-467F-B7A4-2F745E8CC022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB15868-B33E-467F-B7A4-2F745E8CC022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB15868-B33E-467F-B7A4-2F745E8CC022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1238D2A1-BBD5-4929-ACB6-D574D9105475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1238D2A1-BBD5-4929-ACB6-D574D9105475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1238D2A1-BBD5-4929-ACB6-D574D9105475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1238D2A1-BBD5-4929-ACB6-D574D9105475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
